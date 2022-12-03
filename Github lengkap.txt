@@ -1,7 +1,8 @@
 Yang harus dilakukan :
 1. Membuat Akun
-  a. Sign In
-  b. Sign Out
+  a. Membuka website awal di github.com
+  b. Sign In
+  c. Sign Out
   
 2. Mengedit Profile
   a. Negara
