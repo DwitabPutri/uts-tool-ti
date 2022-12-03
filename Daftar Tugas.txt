@@ -1,0 +1,6 @@
+Daftar Tugas :
+1. UTS Tool TI
+  Detail Tugas : Membuat tutorial menggunakan Github (6 Desember)
+2. Laporan tulis tangan praktikum algoritma dan pemrograman
+  Detail Tugas : Membuat laporan tulis tangan praktikum (10 Desember)
+3. Presentasi Agama Hindu
