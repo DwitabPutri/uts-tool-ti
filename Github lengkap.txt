@@ -1,7 +1,8 @@
 Yang harus dilakukan :
 1. Membuat Akun
-  a. Sign In
-  b. Sign Out
+  a. Membuka website awal di github.com
+  b. Sign In
+  c. Sign Out
   
 2. Mengedit Profile
   a. Negara
@@ -13,6 +14,8 @@ Yang harus dilakukan :
 4. Melakukan Commit
   a. Melakukan beberapa commit (menambahkan dan menghapuskan data pada file)
   b. Menunjukkan history
+  c. Menjelaskan push
 
 5. Melakukan branch
   a. Membuat branch baru
+  b. Melakukan merge
