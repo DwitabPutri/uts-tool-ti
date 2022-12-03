@@ -1,4 +1,4 @@
 Yang harus dilakukan pada github
 1. Membuat akun
 2. Mengedit profil
-3. Membuat repository
+3. Melakukan commit
