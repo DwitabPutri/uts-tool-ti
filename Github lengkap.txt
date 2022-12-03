@@ -1,0 +1,18 @@
+Yang harus dilakukan :
+1. Membuat Akun
+  a. Sign In
+  b. Sign Out
+  
+2. Mengedit Profile
+  a. Negara
+  b. Foto Profil
+
+3. Membuat Repository
+  a. Membuat sebuah file dalam repository
+
+4. Melakukan Commit
+  a. Melakukan beberapa commit (menambahkan dan menghapuskan data pada file)
+  b. Menunjukkan history
+
+5. Melakukan branch
+  a. Membuat branch baru
