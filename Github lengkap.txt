@@ -13,6 +13,9 @@ Yang harus dilakukan :
 4. Melakukan Commit
   a. Melakukan beberapa commit (menambahkan dan menghapuskan data pada file)
   b. Menunjukkan history
+  c. Menunjukkan push
 
 5. Melakukan branch
   a. Membuat branch baru
+  b. Melakukan merge
+  c. Melakukan merge dengan branch yang ada gangguan
